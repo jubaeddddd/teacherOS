@@ -1,6 +1,7 @@
-import React from 'react';
-import LeftAside from '../components/home/leftAside';
+
+
 import { Outlet } from 'react-router-dom';
+import LeftAside from '../components/LeftAside';
 
 const HomeLayout = () => {
     return (
